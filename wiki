@@ -1,0 +1,49 @@
+Frequently Asked Questions – Daily Modpack
+
+What is the Daily Modpack?
+Answer:  
+The Daily Modpack is my personal, lightweight Minecraft setup that I actually play with every day—curated for stability, performance, and a bit of flavor without turning the game into something unrecognizable.
+
+Which Minecraft version does it support?
+Answer:  
+Right now, Daily only supports Minecraft 26.1.1.
+When newer Minecraft versions come out and I’m happy with a new setup, I’ll upload a new Daily version for that MC release.
+
+Will older versions stay available?
+Answer:  
+Yes. When I upload new versions for newer Minecraft releases, older versions will stay up so players on older MC versions can still use them.
+
+How do I install the Daily Modpack?
+Answer:
+
+Download the .mrpack file from Modrinth.
+
+Open it with the Modrinth App (or another launcher that supports .mrpack).
+
+The launcher will automatically download all required mods and set up the instance.
+
+Can I rename the .mrpack file?
+Answer:  
+Yes. You can rename it (for example, Daily 26.1.1.mrpack) as long as it still ends with .mrpack. The internal manifest controls everything, not the filename.
+
+Where is the source or configuration stored?
+Answer:  
+You can find the project on GitHub here:
+github.com/jacethejace4501/daily  
+That’s where I may keep overrides, configs, and possibly the .mrpack itself.
+
+Can I use this modpack in videos or streams?
+Answer:  
+Yes, you’re welcome to use Daily in content. A link back to the Modrinth page or GitHub repo is appreciated but not required.
+
+Can I modify the pack for personal use?
+Answer:  
+Absolutely. You can add/remove mods, tweak configs, and customize it however you like on your own machine.
+
+Can I reupload or redistribute my own version of Daily?
+Answer:  
+Please don’t reupload it as your own project on Modrinth or other platforms. If you want to build something based on it, crediting and clearly differentiating your pack is the respectful move.
+
+How often will Daily be updated?
+Answer:  
+There’s no strict schedule. I’ll update Daily when I’m genuinely using a new setup I like—especially for new Minecraft versions.
