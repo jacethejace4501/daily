@@ -1,5 +1,7 @@
-Daily Modpack
-Daily is my personal everyday Minecraft setup — a lightweight, fast, and clean Fabric modpack built for survival, servers, building, and casual play. It keeps the game feeling completely vanilla while adding the performance boosts and quality‑of‑life tweaks I use every single day.
+<img width="226" height="102" alt="Daily" src="https://github.com/user-attachments/assets/1b92734c-6910-4546-ab9f-eaab1670489b" />
+
+Daily is my personal everyday Minecraft setup — a lightweight, fast, and clean Fabric modpack built for survival, servers,
+building, and casual play. It keeps the game feeling completely vanilla while adding the performance boosts and quality‑of‑life tweaks I use every single day.
 
 ✨ What’s Inside
 
